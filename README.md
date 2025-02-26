@@ -29,22 +29,6 @@ Template for Simple Linear Regression, used for predicting continuous values.
 **⚡ Rajesh_Belgaonkar_support_vector_machine.ipynb**
 Demonstrates Support Vector Machines (SVM) for classification problems.
 
-### **How to Run the Notebooks?**
-**1️⃣ Clone the Repository**
-### git clone https://github.com/rajeshbelgaonkar19/IBM-AIML-Internship-Projects.git
-### cd ibm-aiml-projects
-
-**2️⃣ Set Up Virtual Environment (Optional)**
-### python -m venv env
-### source env/bin/activate   # For Linux/macOS
-### env\Scripts\activate      # For Windows
-
-**3️⃣ Install Dependencies**
-### pip install -r requirements.txt
-
-**4️⃣ Launch Jupyter Notebook**
-### jupyter notebook
-
 ### **Prerequisites**
 Ensure you have the following installed:
 - **✅ Python 3.x**
