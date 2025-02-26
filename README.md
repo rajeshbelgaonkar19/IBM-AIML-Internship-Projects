@@ -31,7 +31,7 @@ Demonstrates Support Vector Machines (SVM) for classification problems.
 
 ### **How to Run the Notebooks?**
 **1️⃣ Clone the Repository**
-### git clone https://github.com/yourusername/ibm-aiml-projects.git
+### git clone https://github.com/rajeshbelgaonkar19/IBM-AIML-Internship-Projects.git
 ### cd ibm-aiml-projects
 
 **2️⃣ Set Up Virtual Environment (Optional)**
